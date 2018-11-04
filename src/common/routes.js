@@ -3,7 +3,7 @@ import React from "react";
 
 import App from "./containers/App";
 
-//Redux Smart
+//Redux
 import AboutPage from "./containers/AboutPage";
 import HomePage from "./containers/HomePage";
 
